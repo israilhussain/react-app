@@ -5,7 +5,7 @@ import propTypes from 'prop-types';
 
 class View extends React.Component {
 	componentDidMount() {
-		console.log('View', this.props)
+		console.log('View11', this.props)
 	}
 	render() {
 		return (
